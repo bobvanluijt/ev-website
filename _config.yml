@@ -12,7 +12,7 @@ title:              Eveline Vondeling
 logo:               # Logo image URL
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
-url:                'https://evelinevondeling.com/ # The base hostname & protocol for your site
+url:                'https://evelinevondeling.com/' # The base hostname & protocol for your site
 linkedin:            https://twitter.com/aspirethemes
 facebook:           https://www.facebook.com/aspirethemes
 instagram:          https://www.instagram.com/aspirethemes
