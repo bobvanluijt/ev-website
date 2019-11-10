@@ -53,8 +53,9 @@
     }
 
     @include mq($from: desktop) {
-      font-size: double($font-size-h2);
+      font-size: ($font-size-h3*4);
       line-height: 1.2;
+      font-weight: bolder;
     }
   }
 

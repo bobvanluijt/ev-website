@@ -20,9 +20,11 @@
     </div>
 
     <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='c-footer__headline'>Newsletter</p>
+      <p class='c-footer__headline'>Contact</p>
 
-      {% include subscribe-form.html %}
+      <ul class='c-footer-list o-plain-list'>
+        {% include contact.html %}
+      </ul>
     </div>
 
     <div class='o-grid__col o-grid__col--full'>
@@ -31,13 +33,13 @@
 
           <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
             <div class='u-font-size-tiny c-footer__copyright'>
-              {{ site.time | date: '%Y' }} {{ site.title }}
+              {{ site.time | date: '%Y' }} {{ site.title }} &copy;
             </div>
           </div>
 
-          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
+          <!-- <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
             {% include social-icons.html %}
-          </div>
+          </div> -->
 
         </div>
       </div>
