@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About Eveline
-image: '/images/pages/1.jpg'
+image: '/images/EVELINE.jpeg'
+image-copy: Eveline Vondeling
 ---
 
 Eveline Vondeling trained as an artist at the [Rietveld Art academy](https://rietveldacademie.nl/), exhibited internationally before turning to writing and curatorial practice. She holds a Master degree in Arts and Culture with a focus on Gender and Ethnicity from the university of Utrecht. Her research focuses on multisensority as a curatorial practice in which she examines the act of curating as an artistic practice.
