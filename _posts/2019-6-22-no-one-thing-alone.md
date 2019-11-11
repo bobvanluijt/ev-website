@@ -2,7 +2,6 @@
 layout: post
 title: No One Thing Alone
 author: Eveline
-tags: [events, Forever Changes]
 image: '/images/NOTA1.jpg'
 ---
 

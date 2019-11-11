@@ -2,7 +2,6 @@
 layout: post
 title: Transhaptcity
 author: Eveline
-tags: [events, Forever Changes]
 image: '/images/TRANS1.jpg'
 image-copy: Chris Rijksen, document from AKTZEICHNUNG
 ---
