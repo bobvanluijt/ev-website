@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No One Thing Alone
+title: Forever Changes, Artists and Curators
 author: Eveline
 tags: [events, Forever Changes]
 image: '/images/FCAC1.jpg'

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No One Thing Alone
+title: Transhaptcity
 author: Eveline
 tags: [events, Forever Changes]
 image: '/images/TRANS1.jpg'
