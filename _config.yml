@@ -39,3 +39,6 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+plugins:
+  - jekyll-sitemap
