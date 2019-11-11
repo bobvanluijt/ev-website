@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transhaptcity
+title: Transhapticity
 author: Eveline
 image: '/images/TRANS1.jpg'
 image-copy: Chris Rijksen, document from AKTZEICHNUNG
