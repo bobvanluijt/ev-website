@@ -15,3 +15,7 @@ Nestel and Arribas’ project explored the potentiality of thinking and doing be
 All reading groups, events and the final exhibition were facilitated by de [Appel and Lely Broedplaats](https://urbanresort.nl/lely/), both situated in Amsterdam. 
 
 ![Anthony Nestel - Esther Arribas - Forever Changes - Eveline Vondeling]({{ site.baseurl }}/images/NOTA3.jpg)
+
+![Anthony Nestel - Esther Arribas - Forever Changes - Eveline Vondeling]({{ site.baseurl }}/images/NOTA4.jpg)
+
+![Anthony Nestel - Esther Arribas - Forever Changes - Eveline Vondeling]({{ site.baseurl }}/images/NOTA5.jpg)
