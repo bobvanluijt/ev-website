@@ -19,6 +19,7 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-sitemap
 
 include:
   - _pages
