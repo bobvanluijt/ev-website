@@ -20,6 +20,8 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
+    jekyll-sitemap (1.2.0)
+      jekyll (~> 3.3)
     jekyll-tagging (1.0.1)
       ruby-nuggets
     jekyll-watch (1.5.1)
@@ -54,7 +56,8 @@ DEPENDENCIES
   bundler
   jekyll
   jekyll-paginate
+  jekyll-sitemap
   jekyll-tagging
 
 BUNDLED WITH
-   1.13.6
+   1.17.3
