@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transhapticity
+title: 'Essay for Tubelight: Transhapticity'
 author: Eveline
 image: '/images/TRANS1.jpg'
 image-copy: Chris Rijksen, document from AKTZEICHNUNG

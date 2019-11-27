@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forever Changes, Artists and Curators
+title: 'Forever Changes: Artists and Curators'
 author: Eveline
 image: '/images/FCAC1.jpg'
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No One Thing Alone
+title: 'Forever Changes: No One Thing Alone'
 author: Eveline
 image: '/images/NOTA1.jpg'
 ---

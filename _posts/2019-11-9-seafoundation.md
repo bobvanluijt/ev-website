@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Presume You Pictured it Differently
+title: 'Review: I Presume You Pictured It Differently'
 author: Eveline
 image: '/images/SEAFND1.jpg'
 image-copy: Collette Rayner, Seafoundation Tilburg
