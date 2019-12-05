@@ -3,6 +3,7 @@ layout: page
 title: Forever Changes Foundation
 image: '/images/FC-logo.jpg'
 image-copy: Forever Changes logo
+position: 2
 ---
 
 *Forever Changes, Foundation for Participatory Art* offers as a platform for people of different backgrounds, origins and disciplines to meet and develop interpersonal relationships and create artistic methods to work with the public. I established this foundation in 2015, and today I work as a curator for the initiated projects.

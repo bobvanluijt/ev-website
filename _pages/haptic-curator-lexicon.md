@@ -3,6 +3,7 @@ layout: page
 title: Haptic Curator Lexicon
 image: '/images/pages/lexicon.jpg'
 image-copy: Kaarina Haka
+position: 1
 ---
 
 In the text below, I try to imagine how a haptic curator moves through the space of the museum and works with the space and artworks. I address art-curation as a potential outgrowth, or a field of application, of haptic criticism. As possible tools elaborate on this initial conceptual framework, I would like to invoke the notion of artworks and the museum space as part of a ‘web’ of materials, the conceptualisation of bodies as flesh, and conceiving of art objects as living entities. These are all notions which can offer curators tools for innovation in the design of exhibitions. This proposed lexicon is an outgrowth of further analysis of and reflection on the initial concepts of ‘assemblage’ and ‘intersectionality’. In this lexicon I imagine my hypothetical show not so much as a distinct use of a segregated space, but rather as part of a web of all the materials present in the museum.

@@ -2,7 +2,7 @@
   <a href='{{ site.baseurl }}/' class='c-nav__link'>Home</a>
 </li>
 
-{% for page in site.pages %}
+{% for page in site.pages | sort: 'position' %}
   {% unless page.name == '404.md' %}
     {% if page.title %}
       <li class='c-nav__item'>
