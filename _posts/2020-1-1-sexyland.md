@@ -1,8 +1,8 @@
 ---
 layout: post
-title: News: Advisor Diversity & Inclusivity at Sociëteit Sexyland
+title: "News: Advisor Diversity & Inclusivity at Sociëteit Sexyland"
 author: Eveline
-image: '/images/sexyland.jpg'
+image: "/images/sexyland.jpg"
 ---
 
 Club Sociëteit Sexyland appointed me as the advisor on diversity and inclusivity.  I am very excited to kick off the new year with this new role. Club Sociëteit is a project space located in Amsterdam North. Below I quote their website. 
