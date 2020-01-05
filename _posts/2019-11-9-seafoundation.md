@@ -2,7 +2,7 @@
 layout: post
 title: 'Review: I Presume You Pictured It Differently'
 author: Eveline
-image: '/images/SEAFND1.jpg'
+image: '/images/SEAFND3.png'
 image-copy: Collette Rayner, Seafoundation Tilburg
 ---
 
@@ -15,3 +15,5 @@ The artist, who was born in Dundee, seems to be inspired by nature -- perhaps, I
 Ryner now commutes between Dundee and Rotterdam. In 2018 she finished the Master art program at [Piet Zwart](http://www.pzwart.nl). Her position, somewhere between Dundee Falls and post-war reconstructed Rotterdam, where floating urban architectural projects are no longer science fiction, seems to have brought her to an ‘in between’ position. Trying to construct fictional narratives and attempting to come closer to reality, or perhaps a hyper-reality. 
 
 ![Collette Rayner, Seafoundation Tilburg - Eveline Vondeling]({{ site.baseurl }}/images/SEAFND2.png)
+
+![Collette Rayner, Seafoundation Tilburg - Eveline Vondeling]({{ site.baseurl }}/images/SEAFND1.jpg)
