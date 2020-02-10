@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Curatorial project with Forever Changes: No One Thing Alone'
+title: 'Curatorial Project With Forever Changes: No One Thing Alone'
 author: Eveline
 image: '/images/NOTA1.jpg'
 ---
