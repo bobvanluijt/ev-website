@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Educational Project with Forever Changes: 'Artists and Curators''
+title: 'Educational Project with Forever Changes: Artists and Curators'
 author: Eveline
 image: '/images/FCAC1.jpg'
----
+image-copy: Kunstenaars en Curatoren op basisschool in Enschede 
+------
 
 Together with a team of artists, curators and a psychologist, Forever Changes developed ‘Artists and Curators’, a method for primary schools. The method is applied during a period of approximately five days. During this period of time the children and teachers participate in collaborative workshops enhancing mindfulness, bodily-awareness, and strategic thinking. They also participate in art classes with an emphasis on performance art. The children work towards an exhibition of performances in which they use their own bodies as material. 
 
