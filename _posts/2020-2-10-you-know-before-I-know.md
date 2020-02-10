@@ -3,7 +3,6 @@ layout: post
 title: Project support: ‘You Know Before I Know’ at Art Rotterdam
 author: Eveline
 image: ‘/images/Arthur You Know Before I Know.jpg’
-image-copy:
 ---
 
 
@@ -18,3 +17,5 @@ For the performance You Know Before I Know, Van Beek collaborated with artists 
 You Know Before I Know is presented and supported by Sociëteit Sexyland situated in Amsterdam. Every day Sociëteit Sexyland has a different owner. The owner of the day decides what kind of club they want it to be, which can vary from art exhibitions to sporting events, from gangster rap nights to dinners in stroboscopic light. Sexyland is a tabula rasa that can be written in any way possible. In their own words: “We want to highlight every unknown corner of Amsterdam, to broadcast the huge diversity this city has to offer. Every day is a new day at Sexyland”.  
 
 This project could be realized with the generous support of [Society Sexyland](http://www.sexyland.amsterdam/amsterdam/), [Mondriaan Fund](https://www.mondriaanfonds.nl/en/) and [Amarte Fonds](https://www.amarte.nl). 
+
+![You know before I Know]({{ site.baseurl }}/images/FCAC1.jpg)
