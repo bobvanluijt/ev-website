@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project support: ‘You Know Before I Know’ at Art Rotterdam
+title: 'Project support: You Know Before I Know at Art Rotterdam'
 author: Eveline
 image: ‘/images/ArthurYouKnowBeforeIKnow.jpg’
 ---
