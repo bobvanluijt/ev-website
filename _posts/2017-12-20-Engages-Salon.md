@@ -10,6 +10,8 @@ For the [Young Collectors Circle](https://youngcollectorscircle.nl) (YCC), I con
 
 The salons that I organised for YCC addressed questions such as the following: how can engaged art make itself visible within the commercial framework? What are existing models for selling engaged art and how are we getting collectors interested in it?
 
-Links to reporting on the at salon Framer Framed 
-[Link to Framed Framed website](https://framerframed.nl/en/projecten/young-collectors-circle-x-framer-framed-engaged/)
-[Link to Tolhuistuin](https://tolhuistuin.nl/evenement/7832/)
+For further links to reporting on the at salon at Framer Framed visit:
+
+[The Framed Framed website](https://framerframed.nl/en/projecten/young-collectors-circle-x-framer-framed-engaged/)
+
+[The Tolhuistuin website](https://tolhuistuin.nl/evenement/7832/)
