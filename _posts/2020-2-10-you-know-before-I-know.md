@@ -2,7 +2,7 @@
 layout: post
 title: 'Project support: You Know Before I Know at Art Rotterdam'
 author: Eveline
-image: ‘/images/ArthurYouKnowBeforeIKnow.jpg’
+image: '/images/ArthurYouKnowBeforeIKnow.jpg'
 ---
 
 Last weekend performance-artist Arthur van Beek and the musicians Jochem van Tol and Lui Mottes performed You Know Before I Know at [The Performance Show](https://artrotterdam.com/2019/11/10/the-performance-show-avl-mundo-atelier-van-lieshout-2/), a new initiative from [Art Rotterdam](https://artrotterdam.com) which offered visitors a varied and continuous program from Friday through Sunday at a stone’s throw from the fair: in the industrial setting of [AVL Mundo/Atelier Van Lieshout](https://www.avlmundo.org).
