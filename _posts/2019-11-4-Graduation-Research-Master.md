@@ -5,4 +5,6 @@ author: Eveline
 image: '/images/graduation0.jpg'
 image-copy: Domtoren Utrecht, Graduation Ceremony
 ---
-![IDomtoren Utrecht Graduation Ceremony]({{ site.baseurl }}/images/graduation1.jpg)
+[Website](https://www.uu.nl/masters/en/gender-studies-research)
+[Academia website](http://independent.academia.edu/EvelineVondeling)
+
