@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Essay for Tubelight: Transhapticity'
+title: 'Editor and Writer for Tubelight #102: Transhapticity'
 author: Eveline
 image: '/images/TUBELIGHT.jpg'
 image-copy: 'Bart Hess, VEINS1 (detail), 2015-2016. Foto: Josefina Eikenaar / TextielMuseum'
