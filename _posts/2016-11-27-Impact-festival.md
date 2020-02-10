@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Partcipant at IMPACT16, '
+title:  'Partcipant at IMPACT16 PACT Zollverein in Essen (DE)'
 author: Eveline
 image: '/images/impact1.jpg'
 image-copy: IMPACT16 PACT Zollverein
