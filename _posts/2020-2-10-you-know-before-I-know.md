@@ -17,5 +17,5 @@ You Know Before I Know is presented and supported by Sociëteit Sexyland situate
 
 This project could be realized with the generous support of [Society Sexyland](http://www.sexyland.amsterdam/amsterdam/), [Mondriaan Fund](https://www.mondriaanfonds.nl/en/) and [Amarte Fonds](https://www.amarte.nl). 
 
-![You know before I Know]({{ site.baseurl }}/images/FCAC1.jpg)
+![You know before I Know]({{ site.baseurl }}/images/Arthurcowboy.jpeg)
 
