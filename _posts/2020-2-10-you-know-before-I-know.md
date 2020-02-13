@@ -6,7 +6,8 @@ image: '/images/ArthurYouKnowBeforeIKnow.jpg'
 ---
 
 Last weekend performance-artist Arthur van Beek and the musicians Jochem van Tol and Lui Mottes performed 'You Know Before I Know' at [The Performance Show](https://artrotterdam.com/2019/11/10/the-performance-show-avl-mundo-atelier-van-lieshout-2/), a new initiative from [Art Rotterdam](https://artrotterdam.com) which offered visitors a varied and continuous program from Friday through Sunday at a stone’s throw from the fair: in the industrial setting of [AVL Mundo/Atelier Van Lieshout](https://www.avlmundo.org).
-For this project I have provided conceptual feedback, written the curatorial texts and requested successfully the project funding.
+
+For this project I have provided conceptual feedback, written the curatorial texts and successfully requested the project funding.
 
 'You Know Before I Know' is a multidisciplinary performance in which elements of theatre, music, design and fine arts come together. Artist Arthur van Beek is interested in the tension between power and vulnerability. His performances often take place in the public sphere where he makes contact with passengers, treating them as his audience as well as participants of his performances. He moves between the extremes of power and vulnerability by making use of archetypes (such as the lonely hero or cowboy) in combination with elements of his own identity and personal history (which is marked by stuttering and dyslexia). Together they expand, contrast and question identities in a playful manner together with the audience. 
 
