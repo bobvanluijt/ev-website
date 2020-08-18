@@ -18,4 +18,4 @@ Dutch curator Eveline Vondeling has selected these works in collaboration with R
 Both exhibited works are installed in the hotel rooms of Rosalia's Menagerie and you can explore them until the half od September. 
 The price of the cocktails is included in the exhibition ticket.
 
-Purchase your ticket for one or two persons at [https://www.eventbrite.nl/e/multisensory-art-and-cocktail-experience-tickets-117106287057]
+Purchase your ticket for one or two persons at [Eventbride]9https://www.eventbrite.nl/e/multisensory-art-and-cocktail-experience-tickets-117106287057)
