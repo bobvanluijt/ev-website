@@ -5,7 +5,7 @@ author: Eveline
 image: "/images/rosaliacorrectfront.jpg"
 ---
 
-At the cocktailbar and hotel [Rosalia’s Menagerie](https://www.rosalias.amsterdam/) you can indulge yourself in a multisensory art experience. 
+At the cocktailbar and hotel [Rosalia’s Menagerie](https://www.rosalias.amsterdam/) in the citycenter of Amsterdam, you can indulge yourself in a multisensory art experience. 
 Rosalia's Menagerie exhibits in collaboration with curator Eveline Vondeling the work [“Museum of Edible Earth”](http://museumofedible.earth) by Russian artist [Masha Ru](http://masharu.nl/) and Polish artist [Anna Orlikowska’s](http://annaorlikowska.nl) creation “Uh, uhh, mmm”.  
 
 Masha Ru is a creative with the background in science. The projects combine scientific research with a personal approach and cultural practices. The work that we exhibiting is part of a long term project.  Museum of Edible Earth, brings together a collection of edible soils from across the globe. The museum invites the audience to review their knowledge about food and cultural traditions using creative thinking. 
@@ -18,3 +18,4 @@ Dutch curator Eveline Vondeling has selected these works in collaboration with R
 Both exhibited works are installed in the hotel rooms of Rosalia's Menagerie and you can explore them until the half od September. 
 The price of the cocktails is included in the exhibition ticket.
 
+Purchase your ticket for one or two persons at [https://www.eventbrite.nl/e/multisensory-art-and-cocktail-experience-tickets-117106287057]
