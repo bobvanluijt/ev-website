@@ -2,8 +2,7 @@
 layout: post
 title: "Multisensory Art Experience at Rosalia's Menagerie"
 author: Eveline
-image: "/images/FCAC1.jpg"
-image-copy: "Bart Hess, VEINS1 (detail), 2015-2016. Foto: Josefina Eikenaar TextielMuseum"
+image: "/images/rosaliacorrectfront.jpg"
 ---
 
 At the cocktailbar and hotel [Rosalia’s Menagerie](https://www.rosalias.amsterdam/) you can indulge yourself in a multisensory art experience. 
