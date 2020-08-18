@@ -2,7 +2,7 @@
 layout: post
 title: "Multisensory Art Experience at Rosalia's Menagerie"
 author: Eveline
-image: "/images/rosaliacorrectfront.jpg"
+image: "/images/mashahandstone.jpg"
 ---
 
 At the cocktailbar and hotel [Rosalia’s Menagerie](https://www.rosalias.amsterdam/) in the citycenter of Amsterdam, you can indulge yourself in a multisensory art experience. 
