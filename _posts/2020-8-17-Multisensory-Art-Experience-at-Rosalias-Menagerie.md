@@ -15,7 +15,7 @@ Anna’s practice focuses on site-related works, which stretch the limits of med
 Dutch curator Eveline Vondeling has selected these works in collaboration with Rosalia’s Menagerie. We aim to give the spectator a new multisensory experience of art, outside of the museum of gallery space and that goes beyond the general gaze and distance we take of art as spectators. For this edition the cocktailbar has designed two cocktails connected to the works. 
 
 
-Both exhibited works are installed in the hotel rooms of Rosalia's Menagerie and you can explore them until the half od September. 
+Both exhibited works are installed in the hotel rooms of Rosalia's Menagerie and you can explore them until half September. 
 The price of the cocktails is included in the exhibition ticket.
 
 Purchase your ticket for one or two persons at [Eventbride](https://www.eventbrite.nl/e/multisensory-art-and-cocktail-experience-tickets-117106287057)
